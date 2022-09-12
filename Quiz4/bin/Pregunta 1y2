@@ -1,0 +1,3 @@
+1. Es un mecanismo que se utiliza para enunciar un conjunto de especificaciones y comportamientos que otras clases van a implementar, es parecido a la herencia, solo que una clase si puede heredar de varias interfac
+
+2. La diferencia principal es que una clase abstracta solo puede heredar de otra clase abstracta, pero a diferencia de esto, una clase puede heredar de varias interfaces, ya que en java solo se puede heredar de una clase, se usan las interfaces.
